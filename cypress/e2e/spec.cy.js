@@ -1,5 +1,3 @@
-//npx cypress open
-
 // Тест №1
 describe("Login and Logout Test 1", () => {
   it("should login and logout for user 1", () => {
