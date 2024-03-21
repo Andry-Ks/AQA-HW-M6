@@ -37,3 +37,4 @@ describe("Login and Logout Test 2", () => {
     cy.url().should("eq", "https://www.edu.goit.global/account/login");
   });
 });
+
